@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MainFestivity_consegna</string>
+    <string name="infoE">This Application shows the days of vacation in which the schools are closed</string>
+    <string name="infoI">Questa Aplicazione mostra i giorni di vacanza in cui le scuole sono chiuse</string>
+    <string name="infoR">această aplicație arată zilele de vacanță în care școlile sunt închise</string>
+
+    <string name="select_the_countryE">Select the country</string>
+    <string name="select_the_countryI">Seleziona il paese</string>
+    <string name="select_the_countryR">Alege țară</string>
+
+    <string name="moldaviaE">Moldova</string>
+    <string name="moldaviaR">Moldova</string>
+    <string name="moldaviaI">Moldavia</string>
+
+    <string name="italyE">Italy</string>
+    <string name="italyI">Italia</string>
+    <string name="italyR">Italia</string>
+
+    <string name="englandE">England</string>
+    <string name="englandI">Inghilterra</string>
+    <string name="englandR">Anglia</string>
+
+    <string-array name="lingue">
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Românesc</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="select_the_country">textView</string>
+    <string name="italy">italy</string>
+    <string name="moldavia">moldavia</string>
+    <string name="england">england</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="infoE">This Application shows the days of vacation in which the schools are closed</string>
+    <string name="select_the_country">Select the country</string>
+    <string name="moldavia">Moldova</string>
+    <string name="italy">Italy</string>
+    <string name="england">England</string>
+    <string name="app_name">MainFestivity</string>
+</resources>

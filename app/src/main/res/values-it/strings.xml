@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MainFestivity</string>
+    <string name="infoDorin">Questa Aplicazione mostra i giorni di vacanza in cui le scuole sono chiuse</string>
+    <string name="select_the_country">Seleziona il paese</string>
+    <string name="moldavia">Moldavia</string>
+    <string name="italy">Italia</string>
+    <string name="england">Inghilterra</string>
+</resources>
